@@ -4,7 +4,7 @@ Desafio do Explorer da Rocketseat para colocar em prática alguns conceitos de h
 
 ## Técnicas utilizadas no projeto:
 
-- html
+- html - tags como nav, main, footer
 - css - propriedades como display flex
 
 ## 🔗 Links
